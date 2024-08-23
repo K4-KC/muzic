@@ -2,8 +2,8 @@
 Muzic is a small open-source application designed to make music production more intuitive and streamlined. It assists music producers by quickly generating scales and chords based on selected root notes and modes, allowing them to focus more on creativity and less on the tedious calculations often involved in music theory.
 
 ## Authors
-K4_KC (Musician)
-Sukrishan (Program Developer)
+K4_KC, 
+Sukrishan
 ## Features
 Visual display of musical scales in various modes.
 Instant generation of triads and seventh chords based on selected scales.
