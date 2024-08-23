@@ -28,11 +28,9 @@ In the top-right corner of the app, you’ll find three toggle settings:
 Installation
 Clone the repository and run the application on your preferred development environment.
 
-bash
-Copy code
 git clone https://github.com/K4-KC/muzic.git
 cd muzic
-You’ll need Python and any necessary dependencies (e.g., PyQt or Tkinter) installed.
+You’ll need Python and any necessary dependencies (Pygame, NumPy) installed.
 
 ## Contributing
 Feel free to open issues or submit pull requests if you have suggestions or improvements.
